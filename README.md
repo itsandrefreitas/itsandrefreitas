@@ -2,7 +2,6 @@
 
 * 🏫 Student at IPCA
 * 🌱 Learning about software
-* ⚡ Excited about AI
 
 
 <!--
