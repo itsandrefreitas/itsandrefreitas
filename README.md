@@ -1,20 +1,38 @@
 ### Hello there 👋
 
-* 🏫 Student at IPCA
-* 🌱 Learning about software
+I'm André, a final-year Computer Systems Engineering student at IPCA.  
+I'm interested in backend development, real-world engineering challenges, and building software that makes a difference.
 
+---
 
-<!--
-**ItsShoon/ItsShoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔧 Tech Stack  
 
-Here are some ideas to get you started:
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=swagger&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📚 What I'm Learning  
+
+- Improving my C# and .NET development skills  
+- Exploring backend development and software architecture  
+- Improving my Python skills  
+
+---
+
+### 🎯 What I'm Looking For  
+
+I'm currently looking for a software development internship where I can learn, grow, and contribute to real-world projects.
+
+---
+
+### 📫 Contact  
+
+🔗 LinkedIn: https://linkedin.com/in/itsandrefreitas
+
+---
+
